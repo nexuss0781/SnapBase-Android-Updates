@@ -1,0 +1,8 @@
+{
+  "packageName": "com.snapbase.app",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/nexuss0781/SnapBase-Android-Updates/releases/download/v1.1/SnapBase.apk",
+  "sha256": "305d6289348d6089e1a1ffe747608df6dd947bcde58e8024aa240f2cf26295c1",
+  "releaseNotes": "Adds a dedicated Updates center, automatic update availability checks, live APK download progress, and SHA-256 verification. Android's installer handles final approval and app reopening."
+}
