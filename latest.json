@@ -1,8 +1,8 @@
 {
   "packageName": "com.snapbase.app",
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/nexuss0781/SnapBase-Android-Updates/releases/download/v1.2/SnapBase.apk",
-  "sha256": "1e0d2b435f8100e8b2f195bc6363282ab34b3195aea158647795741608c445f2",
-  "releaseNotes": "Adds a read-only Device storage browser for the emulated storage root and subfolders, excluding the protected top-level Android folder. Android requires the user to grant storage access in system settings. Existing SnapBase import and direct-update behavior are unchanged."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/nexuss0781/SnapBase-Android-Updates/releases/download/v1.3/SnapBase.apk",
+  "sha256": "a846f6fd2ff4207b7c06247317539fa948f6b7684cc321582f15905b8378e5e1",
+  "releaseNotes": "Adds icon-led Local/Cloud tabs, searchable and sortable grid browsing for local files and folders, and a compact Settings permission flow. Cloud remains a placeholder."
 }
