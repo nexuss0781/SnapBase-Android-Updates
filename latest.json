@@ -1,8 +1,8 @@
 {
   "packageName": "com.snapbase.app",
-  "versionCode": 6,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/nexuss0781/SnapBase-Android-Updates/releases/download/v2.0/SnapBase-2.0.apk",
-  "sha256": "1cb4405fb475c900b236f585edeb0307b8a85c9e4073af080c8fc1ba00f0bbdb",
-  "releaseNotes": "Adds on-device Telegram Cloud sign-in with a Telegram login code and optional two-step verification. API credentials and the optional 2FA password are encrypted with Android Keystore; the session stays in app-private storage and is excluded from backup. Local browsing and the update center remain available. Requires Android 8.0 (API 26) or newer."
+  "versionCode": 7,
+  "versionName": "2.0.1",
+  "apkUrl": "https://github.com/nexuss0781/SnapBase-Android-Updates/releases/download/v2.0.1/SnapBase-2.0.1.apk",
+  "sha256": "e1b2b2f1753ba2024b275bb2d27fa25d42ccc0e32b08a7c37b420bba2fc97b5d",
+  "releaseNotes": "Adds delta-update support for future releases, with patch and reconstructed-APK integrity verification and full-APK fallback. The initial update from v2.0 downloads this full APK because the existing v2.0 updater cannot apply deltas. Requires Android 8.0 (API 26) or newer."
 }
