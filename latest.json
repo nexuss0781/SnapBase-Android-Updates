@@ -1,8 +1,8 @@
 {
   "packageName": "com.snapbase.app",
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/nexuss0781/SnapBase-Android-Updates/releases/download/v1.4/SnapBase.apk",
-  "sha256": "e027888a51a0051831ecbd930a71524d4058161ccdaf58c34c798958fcb7eca6",
-  "releaseNotes": "Refines the Local browser with larger folder icons, in-card sort and refresh controls, a search-first layout, and a charcoal add button that hides while scrolling down and returns while scrolling up. Preserves Local/Cloud tabs, the storage permission flow, saved-file actions, and the update center."
+  "versionCode": 6,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/nexuss0781/SnapBase-Android-Updates/releases/download/v2.0/SnapBase-2.0.apk",
+  "sha256": "1cb4405fb475c900b236f585edeb0307b8a85c9e4073af080c8fc1ba00f0bbdb",
+  "releaseNotes": "Adds on-device Telegram Cloud sign-in with a Telegram login code and optional two-step verification. API credentials and the optional 2FA password are encrypted with Android Keystore; the session stays in app-private storage and is excluded from backup. Local browsing and the update center remain available. Requires Android 8.0 (API 26) or newer."
 }
